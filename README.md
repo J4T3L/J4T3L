@@ -38,6 +38,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
+
+
 ### 📂 Top Projects
 - 🌑 **[dotfiles_arch_clean-](https://github.com/J4T3L/dotfiles_arch_clean-)** - My personal Hyprland configuration.
 - 📦 **Grahaindah** - Real estate web built with Next.js.
