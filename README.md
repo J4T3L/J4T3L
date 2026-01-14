@@ -21,25 +21,6 @@
   <img src="https://img.shields.io/badge/Hyprland-33CCFF?style=for-the-badge&logo=hyprland&logoColor=black" />
 </p>
 
-### 📊 My Power Level
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm5qZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TQvjZ8GqU7E9K1W/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=J4T3L&show_icons=true&theme=transparent&title_color=1793D1&icon_color=33CCFF&text_color=ffffff&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4T3L&layout=compact&theme=transparent&title_color=1793D1&text_color=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=J4T3L&theme=tokyonight&hide_border=true&area=true&color=1793D1" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-
 ### 📂 Top Projects
 - 🌑 **[dotfiles_arch_clean-](https://github.com/J4T3L/dotfiles_arch_clean-)** - My personal Hyprland configuration.
 - 📦 **Grahaindah** - Real estate web built with Next.js.
